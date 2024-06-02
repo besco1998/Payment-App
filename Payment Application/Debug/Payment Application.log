@@ -1,0 +1,4 @@
+﻿  server.cpp
+C:\Users\compu zone\Desktop\Payment Application\Payment Application\server.cpp(105,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\compu zone\Desktop\Payment Application\Payment Application\server.cpp(186): warning C4715: 'isAmountAvailable': not all control paths return a value
+  Payment Application.vcxproj -> C:\Users\compu zone\Desktop\Payment Application\Debug\Payment Application.exe

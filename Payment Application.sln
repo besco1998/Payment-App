@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Payment Application", "Payment Application\Payment Application.vcxproj", "{C4BD3932-8569-44FF-9B0B-43D1B2A5877B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4BD3932-8569-44FF-9B0B-43D1B2A5877B}.Debug|x64.ActiveCfg = Debug|x64
+		{C4BD3932-8569-44FF-9B0B-43D1B2A5877B}.Debug|x64.Build.0 = Debug|x64
+		{C4BD3932-8569-44FF-9B0B-43D1B2A5877B}.Debug|x86.ActiveCfg = Debug|Win32
+		{C4BD3932-8569-44FF-9B0B-43D1B2A5877B}.Debug|x86.Build.0 = Debug|Win32
+		{C4BD3932-8569-44FF-9B0B-43D1B2A5877B}.Release|x64.ActiveCfg = Release|x64
+		{C4BD3932-8569-44FF-9B0B-43D1B2A5877B}.Release|x64.Build.0 = Release|x64
+		{C4BD3932-8569-44FF-9B0B-43D1B2A5877B}.Release|x86.ActiveCfg = Release|Win32
+		{C4BD3932-8569-44FF-9B0B-43D1B2A5877B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E163BB5-A56A-4D08-8B37-ABFB280262BE}
+	EndGlobalSection
+EndGlobal
